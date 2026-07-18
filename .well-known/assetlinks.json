@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.koranevartem19_bit.twa",
+        "sha256_cert_fingerprints": ["AF:CF:B9:44:91:3A:C8:93:94:54:57:7B:94:85:EF:A4:3B:B3:F7:CA:BC:CA:FA:16:C2:3F:49:F1:C6:70:C9:5B"]
+      }
+    }]
